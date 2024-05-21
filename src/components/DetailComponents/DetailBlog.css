@@ -1,0 +1,18 @@
+.DetailBlogcont{
+    padding:  100px;
+    height: 100%;
+}
+.DetailBlogcont h1{
+    padding-bottom: 20px;
+    color: gold;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.DetailBlogcont h4{
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.DetailBlogcont p{
+    line-height: 1.3rem;
+    font-family:system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

@@ -1,0 +1,16 @@
+nav{
+    height: 50px;
+    background-color: rgb(1, 157, 181);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+}
+.Link{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
